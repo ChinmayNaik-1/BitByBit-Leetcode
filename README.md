@@ -30,11 +30,11 @@ Please include the following details in the `README.md` file of **your forked re
 
 | Field | Description |
 |:--|:--|
-| **Name** | Your full name |
-| **Semester** | Current semester |
-| **USN** | Your university seat number |
-| **College Email** | Your official college email address |
-| **LeetCode Profile** | [Your LeetCode username/profile link](https://leetcode.com/) |
+| **Name** | CHINMAY MARUTI NAIK |
+| **Semester** | 3 |
+| **USN** | !WN24CS075 |
+| **College Email** | chinmaymaruti.cs24@bmsce.ac.in |
+| **LeetCode Profile** | https://leetcode.com/u/chinmay_naik1/ |
 
 📘 **Example:**
 
