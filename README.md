@@ -32,7 +32,7 @@ Please include the following details in the `README.md` file of **your forked re
 |:--|:--|
 | **Name** | CHINMAY MARUTI NAIK |
 | **Semester** | 3 |
-| **USN** | !WN24CS075 |
+| **USN** | 1WN24CS075 |
 | **College Email** | chinmaymaruti.cs24@bmsce.ac.in |
 | **LeetCode Profile** | https://leetcode.com/u/chinmay_naik1/ |
 
